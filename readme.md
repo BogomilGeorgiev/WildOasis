@@ -7,6 +7,6 @@ React Hook Form
 React Hot Toast
 CSS Styled Components
 
-The project is also deplyed on Netlify - https://reactjs-oasis.netlify.app/login
+The project is also deployed on Netlify - https://reactjs-oasis.netlify.app/login
 Username: bobo@test.com
 Password: pass123
